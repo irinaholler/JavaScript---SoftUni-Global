@@ -1,0 +1,5 @@
+function thePyramidOfKingDjoser(params) {
+
+}
+
+thePyramidOfKingDjoser()
